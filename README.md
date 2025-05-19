@@ -2,8 +2,7 @@
 
 This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
 
-# Getting Started ; 
-
+# Getting Started ;
 # 1. Ensure Requirements Are Met:
 
 Android 8+ device
@@ -50,9 +49,18 @@ pkg install xfce4
 ```
 For LXQT desktop environment :
 ```bash
-pkg install lxqt
+pkg install openbox
 ```
-For OPENBOX desktop environment :
+# Install Browser :
+Currently only chromium and firefox browsers work.
+
+For Firefox browser :
 ```bash
-pkg install lxqt
+pkg install tur-repo
+pkg install firefox
+```
+For Chromium browser :
+```bash
+pkg install tur-repo
+pkg install chromium
 ```
