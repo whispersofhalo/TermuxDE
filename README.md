@@ -44,7 +44,7 @@ pkg install pulseaudio
 ```
 
 - # 💻 Install Desktop Environment 🖥️
-Currently only XFCE, LXQT and OPENBOX desktop environments work on android termux.
+Currently only XFCE, LXQT and OPENBOX desktop environments work on android termux. For now only xfce is working.
 
 For XFCE desktop environment :
 ```bash
