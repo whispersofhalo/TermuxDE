@@ -1,25 +1,25 @@
-# 📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
+# 📄 Mevcut Diller: [İngilizce](README.md) | [Türkçe](README.tr.md)
 
-# 🌐 Desktop Environment on Android via Termux 🚀
+# 🌐 Termux ile Android'de Masaüstü Ortamı 🚀
 
-This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
+Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ortamı** kurmak için adım adım bir kılavuz sağlar. Telefonunuzdan mini bir Linux PC deneyimi yaşayın! Geliştiriciler, tamirciler veya mobil Linux kurulumlarını merak eden herkes için mükemmel.
 
-# 📋 Getting Started 🛠️
-# ✅ 1. Ensure Requirements Are Met:
+# 📋 Başlarken 🛠️
+# ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
 
-- Android 8+ device 
+- Android 8+ cihaz 
 
 - [Termux](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk)
 
 - [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)
 
-- Minimum 2GB of RAM (3GB recommended)
+- Minimum 2GB RAM (3GB önerilir)
 
-- 1.5-2GB of Internet data
+- 1,5-2 GB İnternet verisi
 
-- 3-4GB of free storage
+- 3-4 GB ücretsiz depolama alanı
 
-- # 🎨 2. Explore Desktop Styles:
+- # 🎨 2. Masaüstü Stillerini Keşfedin:
 
 - XFCE
 
@@ -29,67 +29,67 @@ This project provides a step-by-step guide for setting up a **lightweight deskto
 
 ---
 
-## ⚙️ Installation Steps 🧩
+## ⚙️ Kurulum Adımları 🧩
 
-Follow these instructions to get your desktop environment up and running. Replace the placeholders with your actual commands and explanations:
+Masaüstü ortamınızı kurmak ve çalıştırmak için bu talimatları izleyin. Yer tutucuları gerçek komutlarınız ve açıklamalarınızla değiştirin:
 
-# 🔄 Update Termux 🔧
+# 🔄 Termux'u Güncelle 🔧
 
-```bash
+``bash
 pkg update
 pkg install x11-repo
 pkg install termux-x11-nightly
 pkg install pulseaudio
 ```
 
-# 💻 Install Desktop Environment 🖥️
-Currently only XFCE, LXQT and OPENBOX desktop environments work on android termux.
+# 💻 Masaüstü Ortamını Kur 🖥️
+Şu anda android termux üzerinde sadece XFCE, LXQT ve OPENBOX masaüstü ortamları çalışmaktadır.
 
-For XFCE desktop environment :
+XFCE masaüstü ortamı için :
 ```bash
 pkg install xfce4
 ```
-For LXQT desktop environment :
+LXQT masaüstü ortamı için :
 ```bash
 pkg install lxqt
 ```
-For OPENBOX desktop environment :
+OPENBOX masaüstü ortamı için :
 ```bash
 pkg install openbox
 ```
 
-# 🌐 Install Browser : 🌍
-Currently only chromium and firefox browsers work.
+# 🌐 Tarayıcı Yükle : 🌍
+Şu anda sadece chromium ve firefox tarayıcıları çalışıyor.
 
-For Firefox browser :
+Firefox tarayıcı için :
 ```bash
 pkg install tur-repo
 pkg install firefox
 ```
-For Chromium browser :
+Chromium tarayıcı için :
 ```bash
 pkg install tur-repo
 pkg install chromium
 ```
-# ⬇️ Download Script To Start Desktop Environment 📥
-To start the desktop environment via effortless termux after installation :
-```bash
+# ⬇️ Masaüstü Ortamını Başlatmak İçin Script İndir 📥
+Kurulumdan sonra masaüstü ortamını zahmetsiz termux üzerinden başlatmak için :
+``bash
 cd ~
 
 wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
 ```
-To start the desktop environment, run this :
+Masaüstü ortamını başlatmak için şunu çalıştırın :
 ```bash
 bash ~/startxfce4_termux.sh
 ```
-Tip: If you have an older version of Android try this script instead :
+İpucu: Android'in eski bir sürümüne sahipseniz bunun yerine şu betiği deneyin :
 ```bash
 cd ~
 
 wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/script
 ```
-# 📱 Social Media & Contact 📬
-Stay connected and get updates:
+# 📱 Sosyal Medya & İletişim 📬
+Bağlantıda kalın ve güncellemeleri alın:
 
 [GitHub](https://github.com/Mitreightt)
 
@@ -99,4 +99,4 @@ Stay connected and get updates:
 
 [Linktree](https://linktr.ee/mitreight)
 
-Feel free to reach out if you have questions, feedback, or want to collaborate!
+Sorularınız, geri bildirimleriniz varsa veya işbirliği yapmak istiyorsanız çekinmeden bize ulaşın!
