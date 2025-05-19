@@ -80,7 +80,10 @@ cd ~
 
 wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
 ```
-Masaüstü ortamını başlatmak için şunu çalıştırın :
+Masaüstü ortamını başlatmak için :
+```bash
+chmod +x ~/startxfce4_termux.sh
+```
 ```bash
 bash ~/startxfce4_termux.sh
 ```
