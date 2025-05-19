@@ -2,7 +2,7 @@
 
 # 🌐 Termux ile Android'de Masaüstü Ortamı 🚀
 
-Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ortamı** kurmak için adım adım bir kılavuz sağlar. Telefonunuzdan mini bir Linux PC deneyimi yaşayın! Geliştiriciler, tamirciler veya mobil Linux kurulumlarını merak eden herkes için mükemmel.
+Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ortamı** kurmak için adım adım bir kılavuz sağlar. Telefonunuzdan mini bir Linux PC deneyimi yaşayın! Geliştiriciler veya mobil Linux kurulumlarını merak eden herkes için mükemmel.
 
 # 📋 Başlarken 🛠️
 # ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
@@ -15,9 +15,9 @@ Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ort
 
 - Minimum 2GB RAM (3GB önerilir)
 
-- 1,5-2 GB İnternet verisi
+- 1,5-2 GB internet verisi
 
-- 3-4 GB ücretsiz depolama alanı
+- 3-4 GB boş depolama alanı
 
 - # 🎨 2. Masaüstü Stillerini Keşfedin:
 
@@ -31,11 +31,11 @@ Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ort
 
 ## ⚙️ Kurulum Adımları 🧩
 
-Masaüstü ortamınızı kurmak ve çalıştırmak için bu talimatları izleyin. Yer tutucuları gerçek komutlarınız ve açıklamalarınızla değiştirin:
+Masaüstü ortamınızı kurmak ve çalıştırmak için bu talimatları izleyin.
 
 # 🔄 Termux'u Güncelle 🔧
 
-``bash
+```bash
 pkg update
 pkg install x11-repo
 pkg install termux-x11-nightly
@@ -82,7 +82,7 @@ Masaüstü ortamını başlatmak için şunu çalıştırın :
 ```bash
 bash ~/startxfce4_termux.sh
 ```
-İpucu: Android'in eski bir sürümüne sahipseniz bunun yerine şu betiği deneyin :
+İpucu: Android'in eski bir sürümüne sahipseniz bunun yerine şu komutu deneyin :
 ```bash
 cd ~
 
