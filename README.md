@@ -95,6 +95,6 @@ Stay connected and get updates:
 
 [Instagram](https://www.instagram.com/nonicknofunn)
 
-[linktree](https://linktr.ee/mitreight)
+[Linktree](https://linktr.ee/mitreight)
 
 Feel free to reach out if you have questions, feedback, or want to collaborate!
