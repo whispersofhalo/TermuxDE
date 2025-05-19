@@ -5,7 +5,8 @@
 Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ortamı** kurmak için adım adım bir kılavuz sağlar. Telefonunuzdan mini bir Linux PC deneyimi yaşayın! Geliştiriciler veya mobil Linux kurulumlarını merak eden herkes için mükemmel.
 
 # 📋 Başlarken 🛠️
-# ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
+
+-# ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
 
 - Android 8+ cihaz 
 
@@ -33,7 +34,7 @@ Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ort
 
 Masaüstü ortamınızı kurmak ve çalıştırmak için bu talimatları izleyin.
 
-# 🔄 Termux'u Güncelle 🔧
+- # 🔄 Termux'u Güncelle 🔧
 
 ```bash
 pkg update
@@ -42,7 +43,7 @@ pkg install termux-x11-nightly
 pkg install pulseaudio
 ```
 
-# 💻 Masaüstü Ortamını Kur 🖥️
+- # 💻 Masaüstü Ortamını Kur 🖥️
 Şu anda android termux üzerinde sadece XFCE, LXQT ve OPENBOX masaüstü ortamları çalışmaktadır.
 
 XFCE masaüstü ortamı için :
@@ -58,7 +59,7 @@ OPENBOX masaüstü ortamı için :
 pkg install openbox
 ```
 
-# 🌐 Tarayıcı Yükle : 🌍
+- # 🌐 Tarayıcı Yükle : 🌍
 Şu anda sadece chromium ve firefox tarayıcıları çalışıyor.
 
 Firefox tarayıcı için :
@@ -71,7 +72,7 @@ Chromium tarayıcı için :
 pkg install tur-repo
 pkg install chromium
 ```
-# ⬇️ Masaüstü Ortamını Başlatmak İçin Script İndir 📥
+- # ⬇️ Masaüstü Ortamını Başlatmak İçin Script İndir 📥
 Kurulumdan sonra masaüstü ortamını zahmetsiz termux üzerinden başlatmak için :
 ``bash
 cd ~
