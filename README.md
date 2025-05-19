@@ -8,6 +8,7 @@ This project provides a step-by-step guide for setting up a **lightweight deskto
 
 Follow these instructions to get your desktop environment up and running. Replace the placeholders with your actual commands and explanations:
 
-```bash
 # 🔄 Update Termux
+
+```bash
 # (Insert your update commands here)
