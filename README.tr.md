@@ -1,3 +1,5 @@
+# 📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
+
 # 🌐 Desktop Environment on Android via Termux 🚀
 
 This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
