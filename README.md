@@ -2,6 +2,32 @@
 
 This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
 
+# Getting Started:
+
+1. Ensure Requirements Are Met:
+Android 8+ device
+
+Termux (download from GitHub or F-Droid)
+
+NOTE: This Only Works On Termux From Github Or Fdroid
+
+Avoid using Termux from Google Play due to API limitations.
+
+Termux:X11
+
+Termux-API
+
+Minimum 2GB of RAM (3GB recommended)
+
+1.5-2GB of Internet data
+
+3-4GB of free storage
+
+2. Explore Desktop Styles:
+XFCE
+LXQt
+OPENBOX
+
 ---
 
 ## ⚙️ Installation Steps
@@ -23,4 +49,8 @@ Currently only XFCE, LXQT and OPENBOX desktop environments work on android termu
 For XFCE desktop environment :
 ```bash
 pkg install xfce4
+```
+For LXQT desktop environment :
+```bash
+pkg install lxqt
 ```
