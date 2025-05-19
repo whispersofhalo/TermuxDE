@@ -38,6 +38,7 @@ Follow these instructions to get your desktop environment up and running. Replac
 
 ```bash
 pkg update
+pkg upgrade
 pkg install x11-repo
 pkg install termux-x11-nightly
 pkg install pulseaudio
