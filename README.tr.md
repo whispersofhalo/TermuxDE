@@ -74,7 +74,7 @@ pkg install chromium
 ```
 - # ⬇️ Masaüstü Ortamını Başlatmak İçin Script İndir 📥
 Kurulumdan sonra masaüstü ortamını zahmetsiz termux üzerinden başlatmak için :
-``bash
+```bash
 cd ~
 
 wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
