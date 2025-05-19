@@ -79,7 +79,7 @@ Kurulumdan sonra masaüstü ortamını zahmetsiz termux üzerinden başlatmak i�
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
 ```
 Masaüstü ortamını başlatmak için :
 ```bash
