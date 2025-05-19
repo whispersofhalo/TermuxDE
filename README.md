@@ -4,7 +4,7 @@ This project provides a step-by-step guide for setting up a **lightweight deskto
 
 # Getting Started ; 
 
-#1. Ensure Requirements Are Met:
+# 1. Ensure Requirements Are Met:
 
 Android 8+ device
 
