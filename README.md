@@ -17,4 +17,10 @@ pkg install termux-x11-nightly
 pkg install pulseaudio
 ```
 
-# install desktop environment
+# Install Desktop Environment
+Currently only XFCE, LXQT and OPENBOX desktop environments work on android termux.
+
+For XFCE desktop environment :
+```bash
+pkg install xfce4
+```
