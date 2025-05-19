@@ -79,7 +79,7 @@ To start the desktop environment via effortless termux after installation :
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
 ```
 To start the desktop environment, run this :
 ```bash
