@@ -1,4 +1,4 @@
-📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
+# 📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
 
 # 🌐 Desktop Environment on Android via Termux 🚀
 
