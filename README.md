@@ -83,9 +83,6 @@ wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scr
 ```
 To start the desktop environment, run this :
 ```bash
-chmod +x ~/startxfce4_termux.sh
-```
-```bash
 bash ~/startxfce4_termux.sh
 ```
 Tip: If you have an older version of Android try this script instead :
