@@ -1,4 +1,4 @@
-- # 📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
+# 📄 Available Languages: [English](README.md) | [Türkçe](README.tr.md)
 
 # 🌐 Desktop Environment on Android via Termux 🚀
 
@@ -34,7 +34,7 @@ This project provides a step-by-step guide for setting up a **lightweight deskto
 
 Follow these instructions to get your desktop environment up and running. Replace the placeholders with your actual commands and explanations:
 
-# 🔄 Update Termux 🔧
+- # 🔄 Update Termux 🔧
 
 ```bash
 pkg update
@@ -43,7 +43,7 @@ pkg install termux-x11-nightly
 pkg install pulseaudio
 ```
 
-# 💻 Install Desktop Environment 🖥️
+- # 💻 Install Desktop Environment 🖥️
 Currently only XFCE, LXQT and OPENBOX desktop environments work on android termux.
 
 For XFCE desktop environment :
@@ -59,7 +59,7 @@ For OPENBOX desktop environment :
 pkg install openbox
 ```
 
-# 🌐 Install Browser : 🌍
+- # 🌐 Install Browser : 🌍
 Currently only chromium and firefox browsers work.
 
 For Firefox browser :
@@ -72,7 +72,7 @@ For Chromium browser :
 pkg install tur-repo
 pkg install chromium
 ```
-# ⬇️ Download Script To Start Desktop Environment 📥
+- # ⬇️ Download Script To Start Desktop Environment 📥
 To start the desktop environment via effortless termux after installation :
 ```bash
 cd ~
@@ -92,12 +92,12 @@ wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/scrip
 # 📱 Social Media & Contact 📬
 Stay connected and get updates:
 
-[GitHub](https://github.com/Mitreightt)
+- [GitHub](https://github.com/Mitreightt)
 
-[Discord](https://discord.com/invite/uZ2jRXWCnU)
+- [Discord](https://discord.com/invite/uZ2jRXWCnU)
 
-[Instagram](https://www.instagram.com/nonicknofunn)
+- [Instagram](https://www.instagram.com/nonicknofunn)
 
-[Linktree](https://linktr.ee/mitreight)
+- [Linktree](https://linktr.ee/mitreight)
 
 Feel free to reach out if you have questions, feedback, or want to collaborate!
