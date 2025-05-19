@@ -7,9 +7,9 @@ This project provides a step-by-step guide for setting up a **lightweight deskto
 
 Android 8+ device
 
-Termux
+[Termux](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk)
 
-Termux:X11
+[Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)
 
 Minimum 2GB of RAM (3GB recommended)
 
