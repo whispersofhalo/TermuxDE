@@ -6,7 +6,7 @@ Bu proje, **Termux** kullanarak Android cihazınızda **hafif bir masaüstü ort
 
 # 📋 Başlarken 🛠️
 
--# ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
+- # ✅ 1. Gereksinimlerin Karşılandığından Emin Olun:
 
 - Android 8+ cihaz 
 
