@@ -44,7 +44,7 @@ pkg install pulseaudio
 ```
 
 - # 💻 Masaüstü Ortamını Kur 🖥️
-Şu anda android termux üzerinde sadece XFCE, LXQT ve OPENBOX masaüstü ortamları çalışmaktadır.
+Şu anda android termux üzerinde sadece XFCE, LXQT ve OPENBOX masaüstü ortamları çalışmaktadır. Şimdilik sadece XFCE çalışıyor.
 
 XFCE masaüstü ortamı için :
 ```bash
