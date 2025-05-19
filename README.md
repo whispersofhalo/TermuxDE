@@ -49,8 +49,13 @@ pkg install xfce4
 ```
 For LXQT desktop environment :
 ```bash
+pkg install lxqt
+```
+For OPENBOX desktop environment :
+```bash
 pkg install openbox
 ```
+
 # Install Browser :
 Currently only chromium and firefox browsers work.
 
