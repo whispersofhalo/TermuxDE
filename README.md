@@ -2,7 +2,7 @@
 
 This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
 
-# Getting Started ;
+# Getting Started
 # 1. Ensure Requirements Are Met:
 
 Android 8+ device
@@ -63,4 +63,21 @@ For Chromium browser :
 ```bash
 pkg install tur-repo
 pkg install chromium
+```
+# ⬇️ Download Script To Start Desktop Environment
+To start the desktop environment via effortless termux after installation :
+```bash
+cd ~
+
+wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/Script
+```
+To start the desktop environment, run this :
+```bash
+bash ~/startxfce4_termux.sh
+```
+Tip: If you have an older version of Android try this script instead :
+```bash
+cd ~
+
+wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/script
 ```
