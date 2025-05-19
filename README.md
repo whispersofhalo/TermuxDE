@@ -3,19 +3,13 @@
 This project provides a step-by-step guide for setting up a **lightweight desktop environment** on your Android device using **Termux**. Experience a mini Linux PC right from your phone! Perfect for developers, tinkerers, or anyone curious about mobile Linux setups.
 
 # Getting Started ;
-# 1. Ensure Requirements Are Met:
+1. Ensure Requirements Are Met:
 
 Android 8+ device
 
-Termux (download from GitHub or F-Droid)
-
-NOTE: This Only Works On Termux From Github Or Fdroid
-
-Avoid using Termux from Google Play due to API limitations.
+Termux
 
 Termux:X11
-
-Termux-API
 
 Minimum 2GB of RAM (3GB recommended)
 
@@ -23,7 +17,7 @@ Minimum 2GB of RAM (3GB recommended)
 
 3-4GB of free storage
 
-# 2. Explore Desktop Styles:
+2. Explore Desktop Styles:
 
 XFCE
 
