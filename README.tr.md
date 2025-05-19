@@ -83,9 +83,6 @@ wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scr
 ```
 Masaüstü ortamını başlatmak için :
 ```bash
-chmod +x ~/startxfce4_termux.sh
-```
-```bash
 bash ~/startxfce4_termux.sh
 ```
 İpucu: Android'in eski bir sürümüne sahipseniz bunun yerine şu komutu deneyin :
