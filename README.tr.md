@@ -89,7 +89,7 @@ bash ~/startxfce4_termux.sh
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/script
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/refs/heads/main/scripts/termux_native/startxfce4_termux(old-android).sh
 ```
 # 📱 Sosyal Medya & İletişim 📬
 Bağlantıda kalın ve güncellemeleri alın:
