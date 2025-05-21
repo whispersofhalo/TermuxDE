@@ -89,7 +89,7 @@ Tip: If you have an older version of Android try this script instead :
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/Mitreightt/TermuxDE/refs/heads/main/script
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/refs/heads/main/scripts/termux_native/startxfce4_termux(old-android).sh
 ```
 # 📱 Social Media & Contact 📬
 Stay connected and get updates:
