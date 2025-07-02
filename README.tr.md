@@ -79,17 +79,11 @@ Kurulumdan sonra masaüstü ortamını zahmetsiz termux üzerinden başlatmak i�
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
+wget https://raw.githubusercontent.com/whispersofhalo/TermuxDE/refs/heads/main/startxfce4_termux.sh
 ```
 Masaüstü ortamını başlatmak için :
 ```bash
 bash ~/startxfce4_termux.sh
-```
-İpucu: Android'in eski bir sürümüne sahipseniz bunun yerine şu komutu deneyin :
-```bash
-cd ~
-
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/refs/heads/main/scripts/termux_native/startxfce4_termux(old-android).sh
 ```
 # 📱 Sosyal Medya & İletişim 📬
 Bağlantıda kalın ve güncellemeleri alın:
