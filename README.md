@@ -79,17 +79,11 @@ To start the desktop environment via effortless termux after installation :
 ```bash
 cd ~
 
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
+wget https://raw.githubusercontent.com/whispersofhalo/TermuxDE/refs/heads/main/startxfce4_termux.sh
 ```
 To start the desktop environment, run this :
 ```bash
 bash ~/startxfce4_termux.sh
-```
-Tip: If you have an older version of Android try this script instead :
-```bash
-cd ~
-
-wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/refs/heads/main/scripts/termux_native/startxfce4_termux(old-android).sh
 ```
 # 📱 Social Media & Contact 📬
 Stay connected and get updates:
