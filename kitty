@@ -3,6 +3,8 @@
 background #32302f
 foreground #ebdbb2
 cursor     #d5c4a1
+selection_background  #504945
+selection_foreground  #ebdbb2
 
 # Normal colors
 color0  #1d2021   
