@@ -85,6 +85,10 @@ Masaüstü ortamını başlatmak için :
 ```bash
 bash ~/startxfce4_termux.sh
 ```
+Kişiselleştirilmiş tema için :
+```bash
+
+```
 # 📱 Sosyal Medya & İletişim 📬
 Bağlantıda kalın ve güncellemeleri alın:
 
